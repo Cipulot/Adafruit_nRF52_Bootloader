@@ -46,7 +46,7 @@
 // BLE OTA
 //--------------------------------------------------------------------+
 #define BLEDIS_MANUFACTURER "cipulot"
-#define BLEDIS_MODEL "Frisbee "
+#define BLEDIS_MODEL "Frisbee"
 
 //--------------------------------------------------------------------+
 // USB

@@ -16,7 +16,7 @@ jobs:
       matrix:
         board:
           - 'frisbee'
-                    
+
     steps:
     - name: Setup Python
       uses: actions/setup-python@v3
